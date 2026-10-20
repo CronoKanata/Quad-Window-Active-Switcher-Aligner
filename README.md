@@ -1,3 +1,5 @@
+<img width="553" height="245" alt="SAMPLE01" src="https://github.com/user-attachments/assets/5351ddf8-c38e-45f5-8fd5-276ce7bb71cc" />
+
 [English Description]
 Quad-Window Active Switcher & Aligner for Quad-Tasking.
 
